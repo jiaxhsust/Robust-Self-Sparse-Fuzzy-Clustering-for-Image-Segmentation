@@ -1,5 +1,5 @@
 # RSSFCA
-Our paper “Robust Self-Sparse Fuzzy Clustering for Image Segmentation” has been accepted for publication in IEEE Access. 
+Our paper “Robust Self-Sparse Fuzzy Clustering for Image Segmentation” has been accepted for publication in IEEE Access. 2020. 
 
 The proposed RSSFCA has two advantages:
 1.	The RSSFCA utilizes regularization under Gaussian metric to obtain proper sparse memberships that can effectively reduce non-homogenous interference and achieve better classification than popular self-optimized FCM algorithms.
